@@ -289,6 +289,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ClickHandler.cs" />
+    <Compile Include="Assets\Scripts\labTwoButtonClick.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
